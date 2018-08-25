@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/MapaMVC/v15/Server/sqlite3
+/FakesAssemblies
+/Properties/PublishProfiles
